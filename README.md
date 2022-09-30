@@ -2,6 +2,12 @@
 
 [![@aumsathwara's Holopin board](https://holopin.io/api/user/board?user=aumsathwara)](https://holopin.io/@aumsathwara)
 
+- 🔭 I’m currently working on Machine learning projects
+- 🌱 I’m currently exploring field of Computer Vision x A.I. 
+- 💬 Ask me about resources 
+- 📫 How to reach me: @aumsthwara 
+- ⚡ Fun fact: I like dogs 
+
 <!--
 **aumsathwara/aumsathwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
