@@ -2,14 +2,6 @@
 
 [![@aumsathwara's Holopin board](https://holopin.io/api/user/board?user=aumsathwara)](https://holopin.io/@aumsathwara)
 
-- 🔭 I’m currently working on Machine learning projects
-- 🌱 I’m currently exploring field of Computer Vision x A.I. 
-- 💬 Ask me about resources 
-- 📫 How to reach me: @aumsthwara 
-- ⚡ Fun fact: I like dogs 
-
-
-
 # 💫 About Me:
 🔭 I’m currently working on Machine learning projects<br>🌱 I’m currently exploring field of Computer Vision x A.I.<br>💬 Ask me about resources<br>📫 How to reach me: @aumsthwara<br>⚡ Fun fact: I like dogs
 
