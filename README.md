@@ -3,7 +3,7 @@
 [![@aumsathwara's Holopin board](https://holopin.io/api/user/board?user=aumsathwara)](https://holopin.io/@aumsathwara)
 
 # 💫 About Me:
-🔭 I’m currently working on Machine learning projects<br>🌱 I’m currently exploring field of Computer Vision x A.I.<br>💬 Ask me about resources<br>📫 How to reach me: @aumsthwara<br>⚡ Fun fact: I like dogs
+🔭 CS Grad Student with focus in AI @ Illinois Tech<br>🌱 I’m currently exploring field of Computer Vision x A.I.<br>💬 Ask me about resources<br>📫 How to reach me: @aumsthwara<br>⚡ Fun fact: I like dogs
 
 
 ## 🌐 Socials:
