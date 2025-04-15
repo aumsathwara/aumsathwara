@@ -1,9 +1,16 @@
-### Hi there 👋
+👋 Hello, I'm Aum!
 
+“I teach machines to be smart.”
 [![@aumsathwara's Holopin board](https://holopin.io/api/user/board?user=aumsathwara)](https://holopin.io/@aumsathwara)
 
-# 💫 About Me:
-🔭 CS Grad Student with focus in AI @ Illinois Tech<br>🌱 I’m currently exploring field of Computer Vision x A.I.<br>💬 Ask me about resources<br>📫 How to reach me: @aumsthwara<br>⚡ Fun fact: I like dogs
+🚀 About Me
+
+I’m a CS Grad Student at Illinois Tech, dancing on the cutting edge of AI and Computer Vision. I enjoy rummaging through data to give machines the gift of sight — or at least something close.
+
+🔭 Current Adventure: Experimenting with AI for next-gen visual understanding.
+🌱 Learning: Everything from convolutional mysteries to the mathematics behind image processing.
+💬 Ask Me: About cool resources or the latest AI buzz.
+⚡ Fun Fact: I’m a dog person. My code might bark.
 
 
 ## 🌐 Socials:
