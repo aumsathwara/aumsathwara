@@ -7,8 +7,11 @@
 I’m a CS Grad Student at Illinois Tech, dancing on the cutting edge of AI and Computer Vision. I enjoy rummaging through data to give machines the gift of sight — or at least something close.
 
 🔭 Current Adventure: Diving deep into LLMs and HPC
+
 🌱 Learning: Everything from convolutional mysteries to the mathematics behind image processing.
+
 💬 Ask Me: About cool resources or the latest AI buzz.
+
 ⚡ Fun Fact: I’m a dog person. My code might bark.
 
 
