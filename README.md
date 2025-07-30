@@ -82,10 +82,11 @@
 </p>
 
 ---
-## ⚙️ My Toolbox
+
+## 🛠️ Tech Stack I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,aws,azure,tensorflow,pytorch,postgres,mongodb,flask,vscode,github,linux,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,fastapi,flask,tensorflow,pytorch,keras,opencv,numpy,pandas,xgboost,lightgbm,docker,kubernetes,jenkins,githubactions,aws,azure,gcp,postgresql,mongodb,sqlite,spark,git,github,linux,vscode&perline=12" />
 </p>
 
 ---
