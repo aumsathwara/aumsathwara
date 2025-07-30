@@ -80,15 +80,6 @@
 </p>
 
 ---
-
-## 📦 Issues, PRs & Stars
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aumsathwara&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues?username=aumsathwara&theme=tokyonight" width="45%" />
-</p>
-
----
 ## ⚙️ My Toolbox
 
 <p align="center">
