@@ -86,7 +86,7 @@
 ## 🛠️ Tech Stack I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,fastapi,flask,tensorflow,pytorch,keras,opencv,numpy,pandas,xgboost,lightgbm,docker,kubernetes,jenkins,githubactions,aws,azure,gcp,postgresql,mongodb,sqlite,spark,git,github,linux,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,r,fastapi,flask,tensorflow,pytorch,opencv,docker,kubernetes,jenkins,githubactions,aws,azure,gcp,postgresql,mongodb,sqlite,git,github,linux,vscode&perline=12" />
 </p>
 
 ---
