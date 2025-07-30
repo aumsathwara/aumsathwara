@@ -1,5 +1,12 @@
 <!-- GitHub Profile README: Aum Sathwara -->
 
+<p align="center">
+  <a href="https://holopin.io/@aumsathwara">
+    <img src="https://holopin.io/api/user/board?user=aumsathwara" width="800px"/>
+  </a>
+</p>
+
+
 <h1 align="center" style="font-size: 48px;">👋 Hey, I'm Aum Sathwara</h1>
 <p align="center" style="font-size: 18px;">
   🧠 AI Engineer • 🧪 Researcher • ⚙️ MLOps Builder<br/>
@@ -57,16 +64,6 @@
 
 ---
 
-## 🎖️ Dev Badges
-
-<p align="center">
-  <a href="https://holopin.io/@aumsathwara">
-    <img src="https://holopin.io/api/user/board?user=aumsathwara" width="800px"/>
-  </a>
-</p>
-
----
-
 ## 📬 Let's Connect
 
 If you're building something exciting in AI/ML, HPC, or systems infra — I’d love to hear from you.
@@ -75,6 +72,3 @@ If you're building something exciting in AI/ML, HPC, or systems infra — I’d 
 - 🌐 [Portfolio](https://aumsathwara.github.io/portfolio/)
 - 🧠 [LinkedIn](https://www.linkedin.com/in/aumsathwara)
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/aumsathwara/count.svg" />
-</p>
