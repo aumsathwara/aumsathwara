@@ -1,79 +1,80 @@
-<h1 align="center">Hey there! I'm Aum 👋</h1>
+<!-- GitHub Profile README: Aum Sathwara -->
 
-<p align="center">
-  🧠 AI Engineer • 🧪 Researcher • ⚙️ Builder<br/>
-  I create reliable, fast, and curious systems — from LLM-powered HPC to skincare recommenders.
+<h1 align="center" style="font-size: 48px;">👋 Hey, I'm Aum Sathwara</h1>
+<p align="center" style="font-size: 18px;">
+  🧠 AI Engineer • 🧪 Researcher • ⚙️ MLOps Builder<br/>
+  I design curious systems that turn ideas into fast, functional, and scalable reality.
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://aumsathwara.github.io/portfolio/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/aumsathwara/">🔗 LinkedIn</a> •
   <a href="https://github.com/aumsathwara">💻 GitHub</a>
-</p>
+</div>
+
+<br/>
 
 ---
 
-## 🧩 Currently hacking on:
+## 🚧 Currently Building
 
-- ⚡ Real-time product recommendation engine for 10K+ skincare items (Docker + FastAPI + PostgreSQL)
-- 🧠 LLM meets HPC: bridging natural language and structured compute with MCP servers
-- 🧬 AI-powered clinical data search with Gemini + pgvector
+> Working at the crossroads of GenAI and infrastructure. Projects where **Python meets GPUs**, and **LLMs run like clockwork**.
 
----
-
-## 🔍 Recent Projects
-
-<table>
-  <tr>
-    <td><b>OMOPSync</b><br/>🩺 Conversational ETL for clinical data</td>
-    <td><a href="https://github.com/aumsathwara/OMOPSync">🔗 GitHub</a></td>
-  </tr>
-  <tr>
-    <td><b>Diabetic Retinopathy Detector</b><br/>👁️ Fast, accurate image screening using ViT-CNN</td>
-    <td><a href="https://github.com/aumsathwara/Diabetic-Retinopathy">🔗 GitHub</a></td>
-  </tr>
-  <tr>
-    <td><b>MCP-IOWarp</b><br/>🔗 LLM-automated HPC pipelines</td>
-    <td><a href="https://github.com/iowarp/iowarp-mcps">🔗 GitHub</a></td>
-  </tr>
-</table>
+- 🔌 **MCP Servers** to run 500+ LLM calls/week on HPC clusters (OpenAI, Gemini, Anthropic, Ollama)
+- 🧴 **LLM-ready Skincare API** for 10,000+ products with 200ms latency (FastAPI + PostgreSQL)
+- 🧠 **AI search** over clinical data with Gemini + pgvector
 
 ---
 
-## 📊 GitHub Activity
+## 🔥 Projects I Love
+
+| 🚀 Project | 💡 What it Does | 🔗 Link |
+|-----------|-----------------|--------|
+| **OMOPSync** | Conversational AI-driven ETL for healthcare | [GitHub](https://github.com/aumsathwara/OMOPSync) |
+| **MCP-IOWarp** | LLM + HPC orchestration using Python SDK | [GitHub](https://github.com/iowarp/iowarp-mcps) |
+| **Diabetic Retinopathy AI** | Vision Transformer + CNN on SageMaker | [GitHub](https://github.com/aumsathwara/Diabetic-Retinopathy) |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aumsathwara&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true&custom_title=Aum's GitHub Stats" width="60%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumsathwara&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aumsathwara&theme=tokyonight&hide_border=true" width="50%" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aumsathwara&theme=tokyonight" width="85%"/>
+</div>
+
+---
+
+## ⚙️ My Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aumsathwara&show_icons=true&theme=gruvbox" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumsathwara&layout=compact&theme=gruvbox" height="160"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,aws,azure,tensorflow,pytorch,postgres,mongodb,flask,vscode,github,linux,git&perline=8" />
 </p>
+
+---
+
+## 🎖️ Dev Badges
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aumsathwara&theme=gruvbox" height="160"/>
+  <a href="https://holopin.io/@aumsathwara">
+    <img src="https://holopin.io/api/user/board?user=aumsathwara" width="800px"/>
+  </a>
 </p>
 
 ---
 
-## 💻 Things I Use A Lot
+## 📬 Let's Connect
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![LLMs](https://img.shields.io/badge/-LLMs-05122A?style=flat&logo=openai)
+If you're building something exciting in AI/ML, HPC, or systems infra — I’d love to hear from you.
 
----
+- 📫 **sathwara.aum@gmail.com**
+- 🌐 [Portfolio](https://aumsathwara.github.io/portfolio/)
+- 🧠 [LinkedIn](https://www.linkedin.com/in/aumsathwara)
 
-## 🔗 Fun & Badges
-
-[![@aumsathwara's Holopin board](https://holopin.io/api/user/board?user=aumsathwara)](https://holopin.io/@aumsathwara)
-
----
-
-## 👣 You’ve made it to the bottom!
-
-If you're curious about anything I'm building — reach out, fork a project, or just 👋.
-
-![Visitor Count](https://profile-counter.glitch.me/aumsathwara/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/aumsathwara/count.svg" />
+</p>
