@@ -43,19 +43,52 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aumsathwara&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true&custom_title=Aum's GitHub Stats" width="60%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumsathwara&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aumsathwara&theme=tokyonight&hide_border=true" width="50%" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aumsathwara&theme=tokyonight" width="85%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aumsathwara&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" width="60%" />
+</p>
 
 ---
 
+## 🧠 Language & Commit Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumsathwara&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aumsathwara&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aumsathwara&theme=tokyonight" width="85%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aumsathwara&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aumsathwara&theme=tokyonight" width="45%" />
+</p>
+
+---
+
+## ⏱️ Coding Frequency
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aumsathwara&theme=tokyonight&utcOffset=8" width="60%" />
+</p>
+
+---
+
+## 📦 Issues, PRs & Stars
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aumsathwara&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/issues?username=aumsathwara&theme=tokyonight" width="45%" />
+</p>
+
+---
 ## ⚙️ My Toolbox
 
 <p align="center">
