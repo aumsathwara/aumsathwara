@@ -43,38 +43,40 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📊 I Love Stats — Here's a Deep Dive Into My GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aumsathwara&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" width="60%" />
+  <b>🧠 Overall GitHub Performance</b>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aumsathwara&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumsathwara&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
----
-
-## 🧠 Language & Commit Stats
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumsathwara&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aumsathwara&theme=tokyonight&hide_border=true" width="50%" />
+  <b>📋 Profile Summary</b>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aumsathwara&theme=tokyonight" width="95%"/>
 </p>
 
----
-
-## 📈 Contribution Activity
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aumsathwara&theme=tokyonight" width="85%"/>
+  <b>🧪 Language Insights</b>
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aumsathwara&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aumsathwara&theme=tokyonight" width="49%" />
+</p>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aumsathwara&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aumsathwara&theme=tokyonight" width="45%" />
+  <b>⏱️ Productivity Timeline (UTC+8)</b>
 </p>
-
----
-
-## ⏱️ Coding Frequency
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aumsathwara&theme=tokyonight&utcOffset=8" width="60%" />
 </p>
