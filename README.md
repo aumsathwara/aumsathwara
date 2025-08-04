@@ -28,7 +28,7 @@
 > Working at the crossroads of GenAI and infrastructure. Projects where **Python meets GPUs**, and **LLMs run like clockwork**.
 
 - 🔌 **MCP Servers** to run 500+ LLM calls/week on HPC clusters (OpenAI, Gemini, Anthropic, Ollama)
-- 🧴 **LLM-ready Skincare API** for 10,000+ products with 200ms latency (FastAPI + PostgreSQL)
+- 🧴 **LLM-ready Skincare API** for skincare products using FastAPI + PostgreSQL
 - 🧠 **AI search** over clinical data with Gemini + pgvector
 
 ---
